@@ -1,4 +1,4 @@
-In this file one can use steps like
+In this file one can see steps like
 a.Data Loading
 b.Data Cleansing
 c.Visulization
